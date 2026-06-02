@@ -21,7 +21,7 @@ from telethon.sessions import StringSession
 # ========== CONFIGURATION ==========
 BOT_TOKEN = "8948988853:AAEoTY1mNwMjaB4mS_p80G_z_m4v59ub6eQ"
 API_ID = 32700719
-API_HASH = "a5de86a285cd2380333c18228618262b"
+API_HASH = "8856565481:AAEnG4XAQXXFNYVFpTAQkBmBWtrnKB7VhUQ"
 OWNER_ID = 7133574640
 
 # MongoDB Connection
