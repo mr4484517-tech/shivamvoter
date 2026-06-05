@@ -18,9 +18,9 @@ from telethon.errors import SessionPasswordNeededError, FloodWaitError, UserAlre
 from telethon.sessions import StringSession
 
 # ========== CONFIGURATION (Use environment variables for security) ==========
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8968847764:AAEiIiVtVxWUyUIrpgTZf_TTmxRyHl")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8968847764:AAEiIiVtVxWUyUIrpgTZf_TTmxRyHl-zUKI")
 API_ID = int(os.environ.get("API_ID", "32700719"))
-API_HASH = os.environ.get("API_HASH", "a5de86a285cd2380333c18228618262b")
+API_HASH = os.environ.get("API_HASH", "9272910b8995076ac0080cfbb806d8cf ")
 OWNER_ID = int(os.environ.get("OWNER_ID", "6938551840"))
 
 # For Heroku, use DATABASE_URL or local file
