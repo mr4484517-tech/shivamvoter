@@ -19,9 +19,9 @@ from telethon.sessions import StringSession
 
 # ========== CONFIGURATION (Use environment variables for security) ==========
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8968847764:AAEiIiVtVxWUyUIrpgTZf_TTmxRyHl-zUKI")
-API_ID = int(os.environ.get("API_ID", "32700719"))
-API_HASH = os.environ.get("API_HASH", "9272910b8995076ac0080cfbb806d8cf ")
-OWNER_ID = int(os.environ.get("OWNER_ID", "6938551840"))
+API_ID = int(os.environ.get("API_ID", "34271171"))
+API_HASH = os.environ.get("API_HASH", "434d1585320580b4070a2c7d6b2fafcd ")
+OWNER_ID = int(os.environ.get("OWNER_ID", "7853976578"))
 
 # For Heroku, use DATABASE_URL or local file
 DATABASE_URL = os.environ.get("DATABASE_URL", None)
