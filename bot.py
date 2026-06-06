@@ -20,7 +20,7 @@ from telethon.sessions import StringSession
 # ========== CONFIGURATION (Use environment variables for security) ==========
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8968847764:AAEiIiVtVxWUyUIrpgTZf_TTmxRyHl-zUKI")
 API_ID = int(os.environ.get("API_ID", "34271171"))
-API_HASH = os.environ.get("API_HASH", "434d1585320580b4070a2c7d6b2fafcd ")
+API_HASH = os.environ.get("API_HASH", "434d1585320580b4070a2c7d6b2fafcd")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7853976578"))
 
 # For Heroku, use DATABASE_URL or local file
